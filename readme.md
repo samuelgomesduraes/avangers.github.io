@@ -38,7 +38,7 @@ function Avangers(Project) {
             <a href="https://github.com/EduardoKayke" target="blank"><img align="center" src="img/github.png" alt="Github Eduardo" height="50" width="50" style="margin-left: 8px"/></a></p>
         </div>
         <div>
-            <p align="center" style="font-size: 20px">Samuel Duraes <a href="#" target='_blank'><img align="center" src="img/telegram.png" target='_blank' alt="telegram Samuel" height="50" width="50" /></a> <a href="#" target="blank"><img align="center" src="img/linkedin.png" alt="Linkedin Samuel" height="50" width="50" /></a> 
+            <p align="center" style="font-size: 20px">Samuel Duraes <a href="https://web.telegram.org/z/#-575140342" target='_blank'><img align="center" src="img/telegram.png" target='_blank' alt="telegram Samuel" height="50" width="50" /></a> <a href="https://www.linkedin.com/in/samuel-duraes-423800227/" target="blank"><img align="center" src="img/linkedin.png" alt="Linkedin Samuel" height="50" width="50" /></a> 
             <a href="https://github.com/samuelgomesduraes" target="blank"><img align="center" src="img/github.png" alt="Github Samuel" height="50" width="50" style="margin-left: 8px"/></a></p>
         </div>
     </div>
