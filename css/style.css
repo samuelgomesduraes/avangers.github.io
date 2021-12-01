@@ -1,0 +1,8 @@
+.container {
+}
+
+.teste {
+    display: inline-block;
+    border: red 2px solid;
+    width: 300px;
+}
