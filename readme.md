@@ -37,7 +37,6 @@ function Avangers(Project) {
             <p style="font-size: 20px" align="center">Eduardo Kayke <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="img/telegram.png" target='_blank' alt="telegram" height="50" width="50" /></a> <a href="https://linkedin.com/in/eduardokaykedasilva" target="blank"><img align="center" src="img/linkedin.png" alt="Linkedin" height="50" width="50" /></a> 
             <a href="https://github.com/EduardoKayke" target="blank"><img align="center" src="img/github.png" alt="Github" height="50" width="50" style="margin-left: 8px"/></a></p>
         </div>
-        <br>
         <div>
             <p align="center" style="font-size: 20px">Samuel Duraes <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="img/telegram.png" target='_blank' alt="telegram" height="50" width="50" /></a> <a href="https://linkedin.com/in/eduardokaykedasilva" target="blank"><img align="center" src="img/linkedin.png" alt="Linkedin" height="50" width="50" /></a> 
             <a href="https://github.com/EduardoKayke" target="blank"><img align="center" src="img/github.png" alt="Github" height="50" width="50" style="margin-left: 8px"/></a></p>
