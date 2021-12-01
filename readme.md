@@ -28,29 +28,21 @@ function Avangers(Project) {
 
 ---
 <div>
-    <h2 align="center">Desenvolvedores do Projeto</h2>
+    <h1 align="center">Desenvolvedores do Projeto</h1>
     <p align="center">Nos siga nas redes sociais</p>
     <br>
-    <div class="container">
-        <div style="display: inline-block; width:350px">
-            <h2 align="center">Eduardo</h2>
-            <br>
-            <div align="center"> 
-                <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="img/telegram.png" target='_blank' alt="telegram" height="70" width="70" /></a>
-                <a href="https://linkedin.com/in/eduardokaykedasilva" target="blank"><img align="center" src="img/linkedin.png" alt="Linkedin" height="70" width="70" /></a> 
-                <a href="https://github.com/EduardoKayke" target="blank"><img align="center" src="img/github.png" alt="Github" height="60" width="60" style="margin-left: 10px"/></a>
-            </div>
+    <div>
+        <div>
+            <h2 align="center">Eduardo Kayke <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="img/telegram.png" target='_blank' alt="telegram" height="50" width="50" /></a> <a href="https://linkedin.com/in/eduardokaykedasilva" target="blank"><img align="center" src="img/linkedin.png" alt="Linkedin" height="50" width="50" /></a> 
+            <a href="https://github.com/EduardoKayke" target="blank"><img align="center" src="img/github.png" alt="Github" height="50" width="50" style="margin-left: 8px"/></a></h2>
         </div>
-        <div style="display: inline-block;">
-            <h2 align="center">Samuel</h2>
-            <br>
-            <div align="center"> 
-                <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="img/telegram.png" target='_blank' alt="telegram" height="70" width="70" /></a>
-                <a href="https://linkedin.com/in/eduardokaykedasilva" target="blank"><img align="center" src="img/linkedin.png" alt="Linkedin" height="70" width="70" /></a> 
-                <a href="https://github.com/EduardoKayke" target="blank"><img align="center" src="img/github.png" alt="Github" height="60" width="60" style="margin-left: 10px"/></a>
-            </div>
+        <br>
+        <div>
+            <h2 align="center">Samuel Duraes <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="img/telegram.png" target='_blank' alt="telegram" height="50" width="50" /></a> <a href="https://linkedin.com/in/eduardokaykedasilva" target="blank"><img align="center" src="img/linkedin.png" alt="Linkedin" height="50" width="50" /></a> 
+            <a href="https://github.com/EduardoKayke" target="blank"><img align="center" src="img/github.png" alt="Github" height="50" width="50" style="margin-left: 8px"/></a></h2>
         </div>
     </div>
-    <br><br>
+    <hr>
     <p align="center">Um dia seremos a própria tecnologia. Biohacking a própria evolução de nós mesmos.</p>
 </div>
+<hr>
