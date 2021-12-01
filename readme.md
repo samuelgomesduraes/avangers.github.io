@@ -32,7 +32,7 @@ function Avangers(Project) {
     <p align="center">Nos siga nas redes sociais</p>
     <br>
     <div class="container">
-        <div style="display: inline-block; width:400px">
+        <div style="display: inline-block; width:350px">
             <h2 align="center">Eduardo</h2>
             <br>
             <div align="center"> 
