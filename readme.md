@@ -42,7 +42,6 @@ function Avangers(Project) {
             <a href="https://github.com/EduardoKayke" target="blank"><img align="center" src="img/github.png" alt="Github" height="50" width="50" style="margin-left: 8px"/></a></h2>
         </div>
     </div>
-    <hr>
+    <br><br>
     <p align="center">Um dia seremos a própria tecnologia. Biohacking a própria evolução de nós mesmos.</p>
 </div>
-<hr>
