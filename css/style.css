@@ -28,9 +28,15 @@ header {
   text-align: center;
   margin: 10px;
   width: 900px;
-  margin-left: 229px;
+  margin-left: 30px;
   background: #2f2f2f;
   margin-bottom: 90px;
+}
+
+.container-menu {
+  display: grid;
+  justify-content: center;
+  align-items: center;
 }
 
 .botoes {
@@ -57,6 +63,12 @@ header {
   border-right: 3px black solid;
   padding-left: 3px;
   padding-right: 3px;
+}
+
+.container-video {
+  display: grid;
+  justify-content: center;
+  align-items: center;
 }
 
 .video-principal{
