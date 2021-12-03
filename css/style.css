@@ -73,15 +73,17 @@ header {
 .texto-video {
   width: 397px;
   padding: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
   border: solid black 15px;
-  font-size: 20px;
+  font-size: 15px;
   font-family: Georgia, 'Times New Roman', Times, serif;
   display: flex;
   justify-content: center;
   align-items: center;
   text-align: center;
   color: beige;
-  background: #2f2f2f;
+  background: black;
 }
 
 main {
