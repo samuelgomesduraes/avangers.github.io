@@ -30,7 +30,7 @@ header {
   width: 900px;
   margin-left: 30px;
   background: #2f2f2f;
-  margin-bottom: 90px;
+  margin-bottom: 50px;
 }
 
 .container-menu {
@@ -101,23 +101,134 @@ header {
 }
 
 main {
-  margin: 10px;
+  padding:70px;
+  margin-left: 20px;
+  margin-bottom: 50px;
   height: auto;
   width: 100vw;
+  justify-content: center;
   align-items: center;
+  width: 900px;
+  background-color: black;
+  box-shadow: 0 0 20px 20px black;
+}
+
+.central-main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h2 {
+  color: bisque;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content-hero1 {
   display: grid;
   justify-content: center;
-  margin-bottom: 10px;
+  align-items: center;
+  width: 500px;
+  margin: 30px;
+}
+
+.hero1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.content-hero2 {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  margin: 30px;
+}
+
+.hero2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.content-hero3 {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  margin: 30px;
+}
+
+.hero3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.content-hero4 {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  margin: 30px;
+}
+
+.hero4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.content-hero5 {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  margin: 30px;
+}
+
+.hero5 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 50px;
 }
 
 .texto-heroi-main {
-  width: 900px;
   color: bisque;
-  margin-left: 11%;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.titul{
+.titulo{
   font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
+.rodape-central {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.caixa-rodape {
+  height: 250px;
+  width: 900px;
+  padding:50px;
+  margin-left: 20px;
+  margin-bottom: 40px;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  box-shadow: 0 0 20px 20px black;
 }
