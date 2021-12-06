@@ -113,4 +113,11 @@ main {
 .texto-heroi-main {
   width: 900px;
   color: bisque;
+  margin-left: 11%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.titul{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
