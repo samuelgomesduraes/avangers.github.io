@@ -222,6 +222,7 @@ h2 {
 }
 
 .caixa-rodape {
+  color: aliceblue;
   height: 250px;
   width: 900px;
   padding:50px;
@@ -231,4 +232,17 @@ h2 {
   align-items: center;
   background-color: black;
   box-shadow: 0 0 20px 20px black;
+}
+.conteudo-rodape{
+font-family: Georgia, 'Times New Roman', Times, serif;
+  color: aliceblue;
+}
+
+ul{
+  margin-left: 45%;
+  list-style: none;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.direita{
+  margin-left: 40%;
 }
